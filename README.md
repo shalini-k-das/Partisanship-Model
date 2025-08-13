@@ -1,4 +1,5 @@
-# TDP-Work-Sample
+# Voter Partisanship Model 
+### (TDP V4)
 ## Table of contents
 * [Data Preprocessing](#data-preprocessing)
 * [Model Training](#model-training)
